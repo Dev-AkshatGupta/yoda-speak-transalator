@@ -9,7 +9,7 @@ var translateInput = document.querySelector("#translate-input");
 var translateOutput = document.querySelector("#translate-output");
 
 
-var url = 	"https://api.funtranslations.com/translate/valspeak.json"
+var url = 	"https://api.funtranslations.com/translate/yoda.json"
 
 
 
